@@ -1,0 +1,8 @@
+{
+  "name": "project-xmldom",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "proof": "0.0.28"
+  }
+}

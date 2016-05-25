@@ -1,0 +1,39 @@
+{
+  "name":"project-eslint-config",
+  "version":"1.0.0",
+  "devDependencies": {
+    "babel-eslint": "^5.0.0-beta9",
+    "babel-tape-runner": "1.2.0",
+    "big-object-diff": "^0.7.0",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.2.0",
+    "chalk": "^1.1.1",
+    "deep-diff": "^0.3.3",
+    "deep-property": "^1.1.0",
+    "dir-compare": "0.0.2",
+    "eslint": "^1.10.3",
+    "eslint-plugin-react": "^3.12.0",
+    "eslint-teamcity": "^1.0.0",
+    "fs-extra": "^0.26.5",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^1.1.1",
+    "gulp-if": "^2.0.0",
+    "gulp-istanbul": "^0.10.3",
+    "gulp-mocha": "^2.2.0",
+    "handlebars": "^4.0.5",
+    "lodash": "^4.2.1",
+    "mocha-teamcity-reporter": "^1.0.0",
+    "react": "^0.13.3",
+    "request-promise": "^2.0.0",
+    "require-dir": "^0.3.0",
+    "shelljs": "^0.5.3",
+    "sinon": "^1.17.3",
+    "sinon-chai": "^2.8.0",
+    "slash": "^1.0.0",
+    "tape": "^4.2.2",
+    "tmp": "0.0.28"
+  },
+  "peerDependencies": {
+    "eslint": "^1.0.0"
+  }
+}

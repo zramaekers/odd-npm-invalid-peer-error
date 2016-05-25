@@ -1,0 +1,12 @@
+{
+  "name": "project-custom-styles",
+  "version": "1.0.0",
+  "dependencies": {
+    "gulp-file": "^0.2.0",
+    "inquirer": "^0.8.0",
+    "q": "^1.2.0",
+    "slash": "^1.0.0",
+    "stream-to-promise": "^1.0.4",
+    "vinyl-fs": "^0.3.13"
+  }
+}

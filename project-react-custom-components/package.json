@@ -1,0 +1,14 @@
+{
+  "name": "project-react-custom-components",
+  "version": "1.0.0",
+  "dependencies": {
+    "classnames": "^2.1.3",
+    "project-custom-styles":"file:../project-custom-styles",
+    "jquery": "^2.1.4",
+    "raw-loader": "^0.5.1",
+    "react": "^0.13.3",
+    "slash": "^1.0.0",
+    "svgo": "^0.5.3",
+    "svgo-loader": "^1.1.0"
+  }
+}
